@@ -1,0 +1,11 @@
+//
+//  Prod.xcconfig
+//  Adopting_Tuist
+//
+//  Created by 최민한 on 2022/05/05.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = https:/$()/example.com
